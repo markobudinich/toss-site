@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tara Oceans Seminar Series (TOSS)</title>
+    <link>https://tara-webinars.online/</link>
+    <description>Recent content on Tara Oceans Seminar Series (TOSS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 22:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://tara-webinars.online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://tara-webinars.online/post/2020/11/01/welcome-kick-off/</link>
+      <pubDate>Sun, 01 Nov 2020 22:00:00 +0100</pubDate>
+      
+      <guid>https://tara-webinars.online/post/2020/11/01/welcome-kick-off/</guid>
+      <description>We are happy to remind you that the Tara Oceans Seminar Series (TOSS) will kick off this Tuesday. This first Seminar will feature a retrospective talk by Eric Karsenti and a senior talk by Olivier Jaillon. We will circulate the link for the virtual seminar shortly.
+As the information regarding the seminar series has to circulate among coordinators, associates and their group members, we have set up a mailing list to facilitate such communication (and hopefully reduce the number of emails that need to be forwarded within labs).</description>
+    </item>
+    
+  </channel>
+</rss>

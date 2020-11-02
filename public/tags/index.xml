@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tara Oceans Seminar Series (TOSS)</title>
+    <link>https://tara-webinars.online/tags/</link>
+    <description>Recent content in Tags on Tara Oceans Seminar Series (TOSS)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 22:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://tara-webinars.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>general</title>
+      <link>https://tara-webinars.online/tags/general/</link>
+      <pubDate>Sun, 01 Nov 2020 22:00:00 +0100</pubDate>
+      
+      <guid>https://tara-webinars.online/tags/general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

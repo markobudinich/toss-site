@@ -1,0 +1,31 @@
+BaseUrl= "https://tara-webinars.online"
+LanguageCode= "en-US"
+Title= "Tara Oceans Seminar Series (TOSS)"
+paginate = 5
+DisqusShortname = "TOSS"
+Copyright = "All rights reserved - 2020"
+canonifyurls = true
+theme = "HugoTheme-VibrantShadows"
+
+[author]
+  name = "Marko Budinich"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = ""
+  cover = "images/user.jpg"
+  author = "Marko Budinich"
+  authorlocation = ""
+  authorwebsite = ""
+  bio= ""
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = ""
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
